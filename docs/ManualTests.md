@@ -38,7 +38,7 @@ Steps:
 
 **Test 1**
 Steps:
-1. From the Programmer Calculator page, input “1”, “&”, “0”, “Enter” on the keyboard 
+1. From the Programmer Calculator page, input “1”, “&”, “0”, “Enter” on the keyboard
 *Expected: “0” shows up in the display*
 
 **Test 2**
